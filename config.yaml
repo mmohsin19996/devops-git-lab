@@ -3,3 +3,4 @@ filters:
     values: [active, inactive]
   - name: priority
     values: [high, medium, low]
+    version: 1.0 - updated by feature-a
