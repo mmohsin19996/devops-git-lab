@@ -3,4 +3,8 @@ filters:
     values: [active, inactive]
   - name: priority
     values: [high, medium, low]
+<<<<<<< HEAD
     version: 1.0 - updated by feature-a
+=======
+    version: 1.0 - updated by feature-b
+>>>>>>> feature-b
